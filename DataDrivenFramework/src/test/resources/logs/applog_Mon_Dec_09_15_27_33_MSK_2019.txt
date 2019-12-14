@@ -1,0 +1,4 @@
+INFO    2019-12-09 15:27:43,230 [main] com.automation.base.TestBase  - BANKMANAGERLOGINTEST
+INFO    2019-12-09 15:27:48,472 [main] com.automation.base.TestBase  - ADDCUSTOMERTEST
+INFO    2019-12-09 15:27:48,780 [main] com.automation.base.TestBase  - ADDCUSTOMERTEST
+INFO    2019-12-09 15:27:53,951 [main] com.automation.base.TestBase  - OPENACCOUNTTEST

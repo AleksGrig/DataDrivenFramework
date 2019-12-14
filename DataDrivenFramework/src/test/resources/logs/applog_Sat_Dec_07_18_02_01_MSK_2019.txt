@@ -1,0 +1,5 @@
+INFO    2019-12-07 18:02:08,796 [main] com.automation.base.TestBase  - Firefox launched
+INFO    2019-12-07 18:02:10,843 [main] com.automation.base.TestBase  - BANKMANAGERLOGINTEST
+INFO    2019-12-07 18:02:16,729 [main] com.automation.base.TestBase  - ADDCUSTOMERTEST
+INFO    2019-12-07 18:02:17,167 [main] com.automation.base.TestBase  - ADDCUSTOMERTEST
+INFO    2019-12-07 18:02:21,657 [main] com.automation.base.TestBase  - OPENACCOUNTTEST
