@@ -6,7 +6,7 @@ Find it at localhost:8080
 
 # Jenkins credentials
 user: aurelius
-password: 77192806
+password: Selenium@123
 
 # Shutting down jenkins
 Ctrl + c
